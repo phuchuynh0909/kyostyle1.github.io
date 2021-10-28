@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/kyostyle1.github.io/static/css/main.ed190bb1.chunk.css",
+    "main.js": "/kyostyle1.github.io/static/js/main.bea35a68.chunk.js",
+    "main.js.map": "/kyostyle1.github.io/static/js/main.bea35a68.chunk.js.map",
+    "runtime-main.js": "/kyostyle1.github.io/static/js/runtime-main.5034d1f8.js",
+    "runtime-main.js.map": "/kyostyle1.github.io/static/js/runtime-main.5034d1f8.js.map",
+    "static/js/2.70c6f736.chunk.js": "/kyostyle1.github.io/static/js/2.70c6f736.chunk.js",
+    "static/js/2.70c6f736.chunk.js.map": "/kyostyle1.github.io/static/js/2.70c6f736.chunk.js.map",
+    "index.html": "/kyostyle1.github.io/index.html",
+    "static/css/main.ed190bb1.chunk.css.map": "/kyostyle1.github.io/static/css/main.ed190bb1.chunk.css.map",
+    "static/js/2.70c6f736.chunk.js.LICENSE.txt": "/kyostyle1.github.io/static/js/2.70c6f736.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/kyostyle1.github.io/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5034d1f8.js",
+    "static/js/2.70c6f736.chunk.js",
+    "static/css/main.ed190bb1.chunk.css",
+    "static/js/main.bea35a68.chunk.js"
+  ]
+}
